@@ -1,2 +1,0 @@
-# RealFootball
-Soccer Blog
